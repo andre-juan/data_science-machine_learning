@@ -2,7 +2,7 @@
 
 Este repositório conta com notebooks de aulas sobre Data Science (DS) e Machine Learning (ML). O objetivo do repositório é fornecer um material introdutório com os principais tópicos relevantes a estas duas áreas.
 
-Todos os códigos são feitos em Python, portanto, o material assume familiaridade com elementos fundamentais de sintaxe em Python. Para além disto, nenhum conhecieento prévio sobre DS/ML é assumido, de modo que o material é direcionado a pessoas que desejam ter um primeiro contato com estes tópicos.
+Todos os códigos são feitos em Python, portanto, o material assume familiaridade com elementos fundamentais de Python (vide [este repositório](https://github.com/andre-juan/python-fundamentals) para uma introdução a Python, partindo do zero). Para além disto, nenhum conhecimento prévio sobre DS/ML é assumido, de modo que o material é direcionado a pessoas que desejam ter um primeiro contato com estes tópicos.
 
 O repositório é dividido nas seguintes pastas:
 
