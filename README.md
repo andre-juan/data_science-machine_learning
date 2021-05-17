@@ -4,6 +4,8 @@ Este repositório conta com notebooks de aulas sobre Data Science (DS) e Machine
 
 Todos os códigos são feitos em Python, portanto, o material assume familiaridade com elementos fundamentais de Python (vide [este repositório](https://github.com/andre-juan/python-fundamentals) para uma introdução a Python, partindo do zero). Para além disto, nenhum conhecimento prévio sobre DS/ML é assumido, de modo que o material é direcionado a pessoas que desejam ter um primeiro contato com estes tópicos.
 
+____________________
+
 O repositório é dividido nas seguintes pastas:
 
 - aulas: pasta com os notebooks das aulas. O título de cada notebook indica os tópicos abordados. Eles são:
